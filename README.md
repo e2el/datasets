@@ -3,7 +3,9 @@ Documentation of datasets relevant to the E2EL effort
 
 ## Cloud model data with electrification and lightning
 
-LES simulations (dx=125 m) from Brothers et al. (2018) https://doi.org/10.5281/zenodo.17915983
+| Name | Location | Grid spacing | Reference | Data archive |
+| ---- | -------- | ------------ | --------- | ------------ |
+| KTaL simulations | West Texas | 125 m | [Brothers et al. (2018, JAS)](https://doi.org/10.1175/JAS-D-18-0007.1) | https://doi.org/10.5281/zenodo.17915983 |
 
 ## Field campaigns
 
