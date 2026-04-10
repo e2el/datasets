@@ -1,5 +1,5 @@
 # E2EL datasets
-Documentation of datasets relevant to the E2EL effort
+Here is documentation of modeling and validation datasets that are relevant to the E2EL effort. This list is not expected to be comprehensive.
 
 ## Cloud model data with electrification and lightning
 
@@ -13,9 +13,12 @@ Documentation of datasets relevant to the E2EL effort
 | ---- | ------------ | ------------- | --- | ------------- | ----------- | -------- | ------- | -------- | ----- | 
 | [STEPS](https://www.eol.ucar.edu/field_projects/steps) | [NCAR EOL](https://data.eol.ucar.edu/dataset/list?project=179&children=project) | Colorado, Kansas; 2000 | X | | | CHILL, SPOL (both S-band) | EFM balloons, aircraft | T-28 | Environmental Soundings| 
 | [DC3](https://www.eol.ucar.edu/field_projects/dc3) | [NCAR EOL](http://data.eol.ucar.edu/master_list/?project=DC3) | Northeast Colorado, Oklahoma/West Texas, North Alabama; 2012 | X | | | Yes, mobile | EFM balloons in Oklahoma | NASA DC-8, NCAR HIAPER G-V |  |
+| [HyMeX](https://mistrals.sedoo.fr/catalogue/?checkBoxCriteria=%7B%22projects%22%3A%5B%22HyMeX.HyMeX%22%5D%7D) | [MISTRALS](https://doi.org/10.6096/MISTRALS-HYMEX.LIGHTNING.LMA) | Mediterranean, 2012 | X | | | X | | Falcon | Environmental Soundings |
 | [GOES-R PLT](https://www.earthdata.nasa.gov/data/projects/goes-r-plt/collection) | [NASA Earthdata](http://dx.doi.org/10.5067/GOESRPLT/DATA101) | Colorado, Alabama, Oklahoma, Texas; 2017 | X | X | X | Airborne and Ground | | NASA ER-2 | Optical, Electric Field, Field Change, Gamma Ray |
 | [RELAMPAGO](https://www.eol.ucar.edu/field_projects/relampago) | [NCAR EOL](https://data.eol.ucar.edu/master_lists/generated/relampago/) | Argentina, 2018-2019 | X | LF | X | X | Microphysics | ARM G-1 | Environmental Soundings, Electric Field, Field Change |
 | [IMPACTS](https://www.earthdata.nasa.gov/data/projects/impacts/collection) | [NASA Earthdata](http://dx.doi.org/10.5067/IMPACTS/DATA101) | Central & Eastern USA, 2020-2023 | | | X | Airborne and Ground | Microphysics | NASA ER-2 & P-3 | Electric Field |
+| [TRACER/ESCAPE](https://armgov.svcs.arm.gov/research/campaigns/amf2021tracer) | [NCAR EOL](https://data.eol.ucar.edu/master_lists/generated/escape/) | Texas, 2021-2022 | X | | X | X | Microphysics | Convair, LearJet, G-V | Environmental Soundings |
+| [Project LEE](https://www.eol.ucar.edu/field_projects/lee) | [NCAR EOL](https://data.eol.ucar.edu/master_lists/generated/lee/) | Lake Ontario, 2022-2023 | X | | X | X | Electric Field | | Environmental Soundings | 
 | [PERilS](https://www.nssl.noaa.gov/projects/perils/) | [NCAR EOL](https://data.eol.ucar.edu/master_lists/generated/perils_2022/) | Southeast USA, 2023 | X | | X | X | X | | Environmental Soundings, Profilers, Surface Networks|
 | [ALOFT](https://www.earthdata.nasa.gov/data/projects/aloft/collection) | [NASA Earthdata](https://dx.doi.org/10.5067/ALOFT/DATA101) | Mexico, Central America, Florida; 2023 | X | LF, VLF | X | EXRAD, CRS | | NASA ER-2 | Optical, Electric Field, Field Change, Gamma Ray, Passive Microwave |
 | [Legacy NASA Campaigns](https://lightning.nsstc.nasa.gov/lightning-campaigns.html) | [NASA Earthdata](https://search.earthdata.nasa.gov/search) | Various, 1990-2010 (e.g., TOGA-COARE, CaPE, TRMM-LBA, KWAJEX, TCSP, CAMEX, ACES, GRIP) | | X | X | X | X | X | Electric Field, etc. |
