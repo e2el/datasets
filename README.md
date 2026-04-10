@@ -38,12 +38,12 @@ Here is documentation of modeling and validation datasets that are relevant to t
 
 | Name | Data Archive | Orbit | Sensor Type | Resolution | Time Frame |
 | ---- | ------------ | ----- | ----------- | ---------- | ---------- |
-| OTD | [NASA Earthdata](https://dx.doi.org/10.5067/LIS/OTD/DATA101) | LEO | Optical (777 nm) | 2 ms, 8 km | 1995-2000 |
-| TRMM LIS | [NASA Earthdata](https://dx.doi.org/10.5067/LIS/LIS/DATA501) | LEO | Optical (777 nm) | 2 ms, 4 km | 1998-2015 |
-| ISS LIS | [NASA Earthdata](https://dx.doi.org/10.5067/LIS/ISSLIS/DATA114) | LEO | Optical (777 nm) | 2 ms, 4 km | 2017-2023 |
+| OTD Level 2 | [NASA Earthdata](https://dx.doi.org/10.5067/LIS/OTD/DATA101) | LEO | Optical (777 nm) | 2 ms, 8 km | 1995-2000 |
+| TRMM LIS Level 2 | [NASA Earthdata](https://dx.doi.org/10.5067/LIS/LIS/DATA501) | LEO | Optical (777 nm) | 2 ms, 4 km | 1998-2015 |
+| ISS LIS Level 2 | [NASA Earthdata](https://dx.doi.org/10.5067/LIS/ISSLIS/DATA114) | LEO | Optical (777 nm) | 2 ms, 4 km | 2017-2023 |
 | LIS-OTD Flash Climatology | [NASA Earthdata](https://dx.doi.org//10.5067/LIS/LISCLIMO/DATA101) | LEO | Optical (777 nm) | Monthly, 0.1° | 1995-2015, 2017-2023 |
 | LIS Thunder Hour Climatology | [NASA Earthdata](https://dx.doi.org/10.5067/COMBLIS/ATH/DATA101) | LEO | Optical (777 nm) | Annual, 0.05° | 1998-2015, 2017-2023 |
-| GLM | [NOAA CLASS](https://www.aev.class.noaa.gov/) | GEO | Optical (777 nm) | 2 ms, 8 km | 2017-Present |
+| GLM Level 2 | [NOAA CLASS](https://www.aev.class.noaa.gov/) | GEO | Optical (777 nm) | 2 ms, 8 km | 2017-Present |
 | GLM Level 3 Gridded | [NASA Earthdata](https://dx.doi.org/10.5067/GLM/GRID/DATA101) | GEO | Optical (777 nm) | 1 min, 2 km | 2017-Present |
 | GLM Thunder Hour Climatology | [NASA Earthdata](https://dx.doi.org/10.5067/GLM/DATA301) | GEO | Optical (777 nm) | Monthly, 0.05° | 2019-Present |
 | ASIM | [DTU](https://asdc.space.dtu.dk/) | LEO | Optical (180-230, 337, 777 nm), Gamma Ray (15 keV-400 MeV) | 12 fps (imager), 100 kHz (photometer) | 2018-Present |
