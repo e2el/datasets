@@ -21,8 +21,8 @@ Here is documentation of modeling and validation datasets that are relevant to t
 | [Project LEE](https://www.eol.ucar.edu/field_projects/lee) | [NCAR EOL](https://data.eol.ucar.edu/master_lists/generated/lee/) | Lake Ontario, 2022-2023 | X | | X | X | Electric Field | | Environmental Soundings | 
 | [PERilS](https://www.nssl.noaa.gov/projects/perils/) | [NCAR EOL](https://data.eol.ucar.edu/master_lists/generated/perils_2022/) | Southeast USA, 2023 | X | | X | X | X | | Environmental Soundings, Profilers, Surface Networks|
 | [ALOFT](https://www.earthdata.nasa.gov/data/projects/aloft/collection) | [NASA Earthdata](https://dx.doi.org/10.5067/ALOFT/DATA101) | Mexico, Central America, Florida; 2023 | X | LF, VLF | X | EXRAD, CRS | | NASA ER-2 | Optical, Electric Field, Field Change, Gamma Ray, Passive Microwave |
-| [Misc NASA Campaigns](https://lightning.nsstc.nasa.gov/lightning-campaigns.html) | [NASA Earthdata]([https://search.earthdata.nasa.gov/search](https://search.earthdata.nasa.gov/search?q=lightning)) | Various, 1990-Present | | X | X | X | X | X | Electric Field, etc. |
-| [Misc NSF Campaigns](https://data.eol.ucar.edu/dataset/) | [NCAR EOL](https://data.eol.ucar.edu/dataset/list?gcmdScienceKeyword=376&children=gcmdScienceKeyword) | Various, 1990-Present | X | X | X | X | X | Electric Field, etc. |
+| [Misc NASA Campaigns](https://lightning.nsstc.nasa.gov/lightning-campaigns.html) | [NASA Earthdata](https://search.earthdata.nasa.gov/search?q=lightning) | Various, 1990-Present | X | X | X | X | X | X | Electric Field, etc. |
+| [Misc NSF Campaigns](https://data.eol.ucar.edu/dataset/) | [NCAR EOL](https://data.eol.ucar.edu/dataset/list?gcmdScienceKeyword=376&children=gcmdScienceKeyword) | Various, 1990-Present | X | X | X | X | X | X | Electric Field, etc. |
 
 ## Long-Duration Deployments
 
