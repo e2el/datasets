@@ -1,5 +1,5 @@
 # E2EL datasets
-Here is documentation of modeling and validation datasets that are relevant to the E2EL effort. This list is not expected to be comprehensive.
+Here is documentation of free and openly accessible modeling and validation datasets that are relevant to the E2EL effort. This list is not expected to be comprehensive.
 
 ## Cloud model data with electrification and lightning
 
