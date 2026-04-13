@@ -28,7 +28,6 @@ Here is documentation of modeling and validation datasets that are relevant to t
 | Name | Data Archive | Location | Sensor(s) | Time Frame |
 | ---- | ------------ | -------- | --------- | -------- |
 | North Alabama LMA | [NASA Earthdata](https://dx.doi.org/10.5067/NALMA/DATA101)| North Alabama | Lightning Mapping Array | 2001-Present |
-| Oklahoma LMA | [NOAA NSSL](https://www.nssl.noaa.gov/tools/oklma/) | Oklahoma | Lightning Mapping Array | |
 | Washington, DC LMA | [NASA Earthdata](https://dx.doi.org/10.5067/DCLMA/DATA101) | Washington, DC | Lightning Mapping Array | 2020-Present |
 | Wallops LMA | [NASA Earthdata](https://dx.doi.org/10.5067/WFFLMA/DATA101) | NASA Wallops, VA | Lightning Mapping Array | 2020-Present |
 | WALDO Database | [WALDO](https://waldo.world/) | Various (Global) | LF, VLF, ELF | 1982, 1987, 2000-Present |
